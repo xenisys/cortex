@@ -1,1 +1,4 @@
-Adding some content to test the pipeline
+Adding some content to test the pipeline.
+
+
+Adding another text for the testing of pipeline.
